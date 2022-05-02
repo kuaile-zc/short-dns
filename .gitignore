@@ -1,0 +1,12 @@
+
+out/
+
+!.gitignore
+*.idea
+*.iml
+*.ipr
+*.iws
+*.log
+
+/logs/
+target/
